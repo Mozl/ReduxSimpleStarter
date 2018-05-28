@@ -7,6 +7,7 @@ const API_KEY = process.env.API_KEY;
 const App = () => {
   return <div>
     <SearchBar />
+    
   </div>;
 };
 
